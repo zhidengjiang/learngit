@@ -1,0 +1,20 @@
+___awdiv: CODE, 3924 0 64
+_uart_data_send: CODE, 3800 0 22
+_DIV: CODE, 496 0 65
+_DelayUs: CODE, 4005 0 9
+_TouchKeyScan: CODE, 4014 0 72
+_ReadTouchData: CODE, 93 0 403
+_ISR: CODE, 4 0 12
+_HighFreqCo: CODE, 1221 0 83
+_UART_INITIAL: CODE, 3779 0 21
+_main: CODE, 3625 0 99
+_DelayMs: CODE, 3988 0 17
+_Time4Initial: CODE, 3762 0 17
+_StartHigeFreq: CODE, 1621 0 283
+_TouchInit: CODE, 1904 0 22
+_TouchInital: CODE, 3822 0 102
+_SysInit: CODE, 3724 0 38
+_DataProcessing: CODE, 573 0 636
+_MxSet013: CODE, 561 0 12
+___bmul: CODE, 1209 0 12
+Total: 1989
